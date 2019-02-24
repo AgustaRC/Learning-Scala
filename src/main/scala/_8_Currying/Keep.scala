@@ -1,4 +1,4 @@
-package _1_Basics
+package _8_Currying
 
 class Keep {
 
