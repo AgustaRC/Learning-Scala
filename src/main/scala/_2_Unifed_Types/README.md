@@ -1,5 +1,5 @@
 # 스칼라의 클래스 계층구조 다이어그램
-<img src="_2_Unifed_Types/unified-types-diagram.png"/>
+<img src="https://github.com/AgustaRC/Learning-Scala/blob/master/src/main/scala/_2_Unifed_Types/unified-types-diagram.png"/>
 </br>
 
 * 스칼라는 최상위 클래스로 ```Any```가 있다.
@@ -37,7 +37,7 @@ _2_Unifed_Types.Exercise1$$$Lambda$5/984849465@23223dd8
 </br>
 
 # 스칼라 타입 캐스팅
-<img src="_2_Unifed_Types/type-casting-diagram.png"/>
+<img src="https://github.com/AgustaRC/Learning-Scala/blob/master/src/main/scala/_2_Unifed_Types/type-casting-diagram.png"/>
 </br>
 
 * 스칼라는 위와 같은 타입 캐스팅 구조를 가지고 있다.
