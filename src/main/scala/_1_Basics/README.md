@@ -86,6 +86,7 @@ greeter.greet("Scala developer")
 # 케이스 클래스
 * 스칼라에는 특별한 케이스 클래스라는 것이 있다. 
 * 패턴 매칭에 유용하게 사용될 수 있다는데 Kotlin의 ```sealed class```가 여기에서 아이디어를 얻은 것인가??
+* Kotlin의 ```data class```와 비슷
 * 케이스 클래스 선언은 ```class``` 앞에 ```case``` 키워드가 붙는다. 
 ```scala
 case class Point(x: Int, y: Int)
@@ -100,6 +101,7 @@ assert(p1 == p2, "p1 and p2 are the same.")
 assert(p2 != p3, "p2 and p3 are different.")
 ```
 * 설계 원칙에는 어긋나는 것 같지만 필드는 ```var```로 선언하면 값을 변경하는 것도 가능
+* 기본적으로 불변으로 정의하고 값을 변경하는 것은 copy 함수를 이용
 ```scala
 val p1 = Point(1, 2)
 val p2 = Point(1, 2)
