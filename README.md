@@ -45,7 +45,7 @@
 * [Unifed Types](https://github.com/AgustaRC/Learning-Scala/tree/master/src/main/scala/_2_Unifed_Types)
 * [Classes](https://github.com/AgustaRC/Learning-Scala/tree/master/src/main/scala/_3_Classes)
 * [Traits](https://github.com/AgustaRC/Learning-Scala/tree/master/src/main/scala/_4_Traits)
-* [Class Composition with Mixins](https://github.com/AgustaRC/Learning-Scala/tree/master/src/main/scala/_5_Class_Composition)
+* [Class Composition with Mixins](https://github.com/AgustaRC/Learning-Scala/tree/master/src/main/scala/_5_Class_Composition_with_Mixins)
 * [Higher-order Functions](https://github.com/AgustaRC/Learning-Scala/tree/master/src/main/scala/_6_HigherOrder_Functions)
 * [Nested Methods](https://github.com/AgustaRC/Learning-Scala/tree/master/src/main/scala/_7_Nested_Methods)
 * [Currying](https://github.com/AgustaRC/Learning-Scala/tree/master/src/main/scala/_8_Currying)
