@@ -37,6 +37,7 @@
 
 # 개발시 참고
 * [스칼라 스타일 가이드](https://github.com/databricks/scala-style-guide)
+* [Scala School](https://twitter.github.io/scala_school/)
 </br>
 
 # 목차
