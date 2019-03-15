@@ -38,6 +38,8 @@
 # 개발시 참고
 * [스칼라 스타일 가이드](https://github.com/databricks/scala-style-guide)
 * [Scala School](https://twitter.github.io/scala_school/)
+* [Scala Best Practices(Idioms)](https://alvinalexander.com/scala/scala-best-practices-idioms-cookbook)
+* [Scala Best Practices(Option/Some/None)](https://alvinalexander.com/scala/best-practice-option-some-none-pattern-scala-idioms)
 </br>
 
 # 목차
